@@ -1,5 +1,5 @@
 Bài toán 4-Queens và 8-Queens
-1. Công nghệ sử dụng
+# 1. Công nghệ sử dụng
 Bài toán 4-Queens và 8-Queens được giải quyết bằng cách sử dụng Python với các thư viện sau:
 
 NumPy: Để xử lý các mảng và dữ liệu.
@@ -8,7 +8,7 @@ Random: Để hỗ trợ việc sinh ngẫu nhiên các vị trí.
 
 Thuật toán Quay lại (Backtracking): Được áp dụng để tìm ra các giải pháp hợp lệ.
 
-2. Giải thích cách hoạt động
+# 2. Giải thích cách hoạt động
 Chương trình tìm cách đặt N quân hậu lên bàn cờ NxN sao cho không quân hậu nào tấn công quân hậu khác. Điều này có nghĩa là không có hai quân hậu nào nằm trên cùng hàng, cột, hoặc đường chéo.
 
 Các bước thực hiện:
