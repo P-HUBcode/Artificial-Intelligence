@@ -1,4 +1,4 @@
-**1. Công nghệ sử dụng:**
+****1. Công nghệ sử dụng:**/n******
 Bài toán 4-Queens và 8-Queens trong bài thực hành sử dụng:
 Ngôn ngữ lập trình python.
 Sử dụng các thư viện: numpy, random
